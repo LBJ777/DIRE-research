@@ -1,0 +1,37 @@
+Logging to ../results/LSUN/real
+Namespace(attention_resolutions='32,16,8', batch_size=32, channel_mult='', class_cond=False, clip_denoised=True, continue_reverse=False, diffusion_steps=1000, dropout=0.0, has_subfolder=False, image_size=256, images_dir='../data/LSUN/0_real', learn_sigma=True, model_path='../models/256x256_diffusion_uncond.pt', noise_schedule='linear', num_channels=256, num_head_channels=64, num_heads=4, num_heads_upsample=-1, num_res_blocks=2, num_samples=1000, output_dir='../results/LSUN/real', predict_xstart=False, real_step=0, resblock_updown=True, rescale_learned_sigmas=False, rescale_timesteps=False, timestep_respacing='ddim100', use_checkpoint=False, use_ddim=True, use_fp16=True, use_kl=False, use_new_attention_order=False, use_scale_shift_norm=True)
+Computing Hybrid Metrics with Grid 4x4...
+dataset length: 40000
+have processed 32 / 1000 images
+have processed 64 / 1000 images
+have processed 96 / 1000 images
+have processed 128 / 1000 images
+have processed 160 / 1000 images
+have processed 192 / 1000 images
+have processed 224 / 1000 images
+have processed 256 / 1000 images
+have processed 288 / 1000 images
+have processed 320 / 1000 images
+have processed 352 / 1000 images
+have processed 384 / 1000 images
+have processed 416 / 1000 images
+have processed 448 / 1000 images
+have processed 480 / 1000 images
+have processed 512 / 1000 images
+have processed 544 / 1000 images
+have processed 576 / 1000 images
+have processed 608 / 1000 images
+have processed 640 / 1000 images
+have processed 672 / 1000 images
+have processed 704 / 1000 images
+have processed 736 / 1000 images
+have processed 768 / 1000 images
+have processed 800 / 1000 images
+have processed 832 / 1000 images
+have processed 864 / 1000 images
+have processed 896 / 1000 images
+have processed 928 / 1000 images
+have processed 960 / 1000 images
+have processed 992 / 1000 images
+have processed 1000 / 1000 images
+finish computing hybrid metrics!
